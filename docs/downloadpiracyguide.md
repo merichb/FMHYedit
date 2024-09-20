@@ -275,7 +275,7 @@
 * [nzbget](https://nzbget.com/) / [GitHub](https://github.com/nzbgetcom/nzbget)
 * [Usenet File Hashes](https://gist.github.com/4chenz/de3a3490aff19fd72e4fdd9b7dafc8f4) - Link File Hashes
 * [Tg-UsenetBot](https://github.com/sanjit-sinha/Tg-UsenetBot) - Usenet Telegram Bot
-
+* [SlideShareDownloader](https://merichb.github.io/slidesharedownloader/) - SlideShare Downloader
 ***
 
 # ► Leeches / Debrid
